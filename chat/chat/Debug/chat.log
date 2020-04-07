@@ -1,0 +1,6 @@
+﻿  SocketServer.cpp
+d:\code\c语言\chat\chat\chat\socketserver.cpp(91): warning C4018: “>”: 有符号/无符号不匹配
+d:\code\c语言\chat\chat\chat\socketserver.cpp(100): warning C4018: “<”: 有符号/无符号不匹配
+  UserAuth.cpp
+  正在生成代码...
+  chat.vcxproj -> D:\code\c语言\chat\chat\Debug\chat.exe
